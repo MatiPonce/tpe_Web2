@@ -1,9 +1,13 @@
 # TPE-WEB-2
-##Catalogo de productos de gimnasio
+##Catalogo de ejercicios de gimnasio.
 
 ###Integrante:
 -Matian Ponce
 
 ###Descripcion:
-Mi trabajo se basa en un catalogo de productos de gimnasio.
-La relacion es de 1 a N donde cada categoria puede tener muchos items y un item puede pertenecer a una categoria.
+Mi trabajo se basa en un catalogo de ejercicios en donde las categorias son:
+-Tren superior
+-Tren inferior
+Y los items son los ejercicios que corresponden a cada categoria.
+
+La relacion es de 1 a N donde cada categoria puede tener muchos ejercicios y un ejercicio puede pertenecer a una categoria.
